@@ -8,8 +8,10 @@
 
 ### **Step 2: Gather Data
 
+
 1. **Collect Data:** Acquire a dataset that is relevant to your problem.
-2. **Preprocess Data:** Clean the dataset, handle missing values, remove outliers, and format it appropriately for analysis.
+   Data has been collected from the https://www.codewithharry.com/ website platform.
+3. **Preprocess Data:** Clean the dataset, handle missing values, remove outliers, and format it appropriately for analysis.
 
 ### **Step 3: Explore and Prepare the Data
 
